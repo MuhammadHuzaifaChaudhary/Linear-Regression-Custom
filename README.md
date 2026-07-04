@@ -4,7 +4,7 @@
 
 ---
 
-## 💡 Use Case
+# 💡 Use Case
 
 Models the relationship between a student's **study habits** and **academic behavior** to predict their **final exam score**, using a Linear Regression engine powered by a custom Gradient Descent optimizer — written entirely from scratch in Python.
 
