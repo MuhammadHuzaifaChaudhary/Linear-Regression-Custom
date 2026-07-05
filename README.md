@@ -1,4 +1,4 @@
-# 🧠 Linear Regression Custom
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= 🧠 Linear Regression Custom;Machine learning first code)](https://git.io/typing-svg)
 
 > **Predicts a student's final exam score (out of 100) based on study habits and academic behavior — built completely from scratch using Gradient Descent. No sklearn. No shortcuts.**
 
